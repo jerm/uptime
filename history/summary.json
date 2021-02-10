@@ -4,19 +4,19 @@
     "url": "https://jermops.com/",
     "icon": "https://favicons.githubusercontent.com/jermops.com",
     "slug": "jermops-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 230,
-    "timeWeek": 273,
-    "timeMonth": 266,
-    "timeYear": 266,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 264,
+    "timeDay": 213,
+    "timeWeek": 262,
+    "timeMonth": 264,
+    "timeYear": 264,
     "dailyMinutesDown": {
-      "2021-02-10": 0
+      "2021-02-10": 13
     }
   }
 ]
