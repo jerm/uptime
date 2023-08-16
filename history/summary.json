@@ -4,19 +4,19 @@
     "url": "https://jermops.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jermops.com.ico",
     "slug": "jermops-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 262,
-    "timeDay": 248,
-    "timeWeek": 204,
+    "time": 261,
+    "timeDay": 240,
+    "timeWeek": 205,
     "timeMonth": 213,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2023-08-16": 0,
+      "2023-08-16": 7,
       "2022-10-30": 58
     }
   }
