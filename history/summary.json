@@ -4,7 +4,7 @@
     "url": "https://jermops.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jermops.com.ico",
     "slug": "jermops-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 94,
     "timeYear": 181,
     "dailyMinutesDown": {
+      "2024-05-31": 0,
       "2023-08-16": 18
     }
   }
