@@ -6,17 +6,16 @@
     "slug": "jermops-blog",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
+    "time": 197,
     "timeDay": 2881,
-    "timeWeek": 791,
+    "timeWeek": 797,
     "timeMonth": 268,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2024-05-31": 8,
       "2023-08-16": 18
     }
   }
